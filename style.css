@@ -51,7 +51,7 @@ h3 { margin-top: 0; }
 .section .container > div {
   display: flex;
   flex-direction: column;
-  gap: 30px;}
+  gap: 30px; }
 .soft { background: #f7f8fb; }
 .cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 22px; margin-top: 30px; }
 .wide-text { max-width: 780px; font-size: 1.1rem; }
